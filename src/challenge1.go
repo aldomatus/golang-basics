@@ -10,15 +10,15 @@ func isEven(number int) {
 	}
 }
 
-func login(user, password string) bool {
+func login(username, password string) bool {
 
-	const userSaved string = "aldo.matus@outlook.com"
+	const usernameSaved string = "aldo.matus@outlook.com"
 	const passwordSaved string = "Myp@ssword2023"
 
-	if user == userSaved && password == passwordSaved {
+	if username == usernameSaved && password == passwordSaved {
 		fmt.Println("Successful")
 		return true
-	} else if user == userSaved {
+	} else if username == usernameSaved {
 		fmt.Println("Invalid password")
 		return false
 	} else {
