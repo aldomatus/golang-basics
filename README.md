@@ -24,7 +24,7 @@ Welcome to the **Basics of Golang** repository! 🎉 This repository serves as y
    ```
     Navigate to Directory:
     ```bash  
-    cd basics-of-golang/
+    cd src/basics-of-golang/
     ```  
     Run Go File:
     ```bash 
