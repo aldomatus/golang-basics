@@ -24,7 +24,7 @@ Welcome to the **Basics of Golang** repository! 🎉 This repository serves as y
    ```
     Navigate to Directory:
     ```bash  
-    cd basics-of-golang/
+    cd src/basics-of-golang/
     ```  
     Run Go File:
     ```bash 
@@ -32,8 +32,10 @@ Welcome to the **Basics of Golang** repository! 🎉 This repository serves as y
     ``` 
 
 ## Prerequisites 📋
-Basic understanding of programming concepts.
-Go installed on your machine. Installation Guide 💻
+
+- Basic understanding of programming concepts.
+- Go installed on your machine. [Installation Guide](https://golang.org/doc/install) 💻
 
 ## Contributions 🤝
+
 Feel free to contribute by submitting pull requests or by raising issues. All contributions are warmly welcome! 🙏
